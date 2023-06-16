@@ -36,7 +36,7 @@
 
 	--opacity: .75; /* Opacity of overall app. | Default: .85 */
 
-	--font: 'JetBrains Mono'; /* Custom font | Default: 'Inter' */
+	--font: 'Stratum2'; /* Custom font | Default: 'Inter' */
 
 	--avatar-roundness: 20%; /* Roundness for avatars. | 0% = Square, 50% = Circle | Default: 50% */
 	--server-roundness: 50%; /* Roundness for servers. | 0% = Square, 50% = Circle | Default: 50% */
